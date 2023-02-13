@@ -1,6 +1,6 @@
 #include <iostream.h>
 #include <conio.h>
-main()
+
 {int a,b,suma;
 cout<<"\n ingrese numero a:";
 cin>>a;
